@@ -1,0 +1,29 @@
+(User) C:\Users\me>cd D:\DataScience-Python3
+
+(User) C:\Users\me>cd d:
+D:\DataScience-Python3
+
+(User) C:\Users\me>cd /d D:\DataScience-Python3
+
+(User) D:\DataScience-Python3>python test.py
+1
+is odd
+2
+is even
+3
+is odd
+4
+is even
+5
+is odd
+6
+is even
+Great! All done. Let's party!
+
+(User) D:\DataScience-Python3>
+
+(User) D:\DataScience-Python3>c:
+
+(User) C:\Users\me>d:
+
+(User) D:\DataScience-Python3>
